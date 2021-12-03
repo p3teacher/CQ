@@ -6,4 +6,4 @@ https://mybinder.org/v2/gh/bernhard-42/jupyter-cadquery/v2.2.1?urlpath=lab&filep
 🌱 I’m currently teaching JupyterLab Python.<br>
 🌱 My teaching focus on Python 3.9 + matplotlib + shapely + cadquery<br>
 📫 How to reach me : tour945@gmail.com
-Jupyter-CadQuery  Release v2.2.1 (07.10.2021)  --> Run in myBinder.org
+👋 Jupyter-CadQuery  Release v2.2.1 (07.10.2021)  --> Run in myBinder.org

@@ -1,4 +1,5 @@
 # CQ (cadquery)
+Check my GitHub repository size is? --> Account settings> Repository
 [[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/p3teacher/CQ/main)]<br>
 👋 Hi, I’m @p3teacher<br>
 👀 I’m interested in 3D Modeling.<br>

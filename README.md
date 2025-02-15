@@ -1,4 +1,4 @@
-# CQ (cadquery)
+# CQ (cadquery) 13.1 MB
 Check my GitHub repository size is? --> Account settings> Repository<br>
 [[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/p3teacher/CQ/main)]<br>
 
